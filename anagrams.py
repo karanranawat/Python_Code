@@ -27,6 +27,7 @@ def main():
   for i in range(0,N):
     string = raw_input()
     print no_of_anagrams(string)
+    # this 
 
 if __name__ == '__main__':
   main()
